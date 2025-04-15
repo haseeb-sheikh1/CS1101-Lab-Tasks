@@ -1,4 +1,4 @@
-/*
+
 
     //                                            LAB # 12 (DATED: 11 FEB, 2025)
     //                          TOPICS - FUNCTION DECLARATIONS - FUNCTION DEFINATIONS - FUNCTION CALLING
@@ -172,7 +172,7 @@
 	    }
 	    return 0;
     }
- */   
+   
 	    
 	//                                          PROGRAM # 6 ( RESTURANT'S MENU.)
     #include <iostream>
